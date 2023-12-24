@@ -1,5 +1,5 @@
 # リポジトリ概要
-本リポジトリは[AtCoder 競プロ典型90](https://atcoder.jp/contests/typical90)の[Rubyによる解答をまとめたGitHubリポジトリ](https://github.com/gostachan/typical_90/tree/main)です．
+本リポジトリは[AtCoder 競プロ典型90](https://atcoder.jp/contests/typical90)の[Rubyによる解答をまとめたGitHubリポジトリ](https://github.com/gostachan/typical_90/tree/main)です．  
 詳しくは，[こちらの記事](https://qiita.com/gostachan/items/40451f694e10f11dab1d)を参考にしてください．
 
 # 注意
