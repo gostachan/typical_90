@@ -1,0 +1,1 @@
+# [024 - Select +／- One（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_x)
