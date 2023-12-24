@@ -2,6 +2,10 @@
 本リポジトリは[AtCoder 競プロ典型90](https://atcoder.jp/contests/typical90)の[Rubyによる解答をまとめたGitHubリポジトリ](https://github.com/gostachan/typical_90/tree/main)です．
 詳しくは，こちらの記事を参考にしてください．
 
+# 注意
+まだ解法を作成していない問題があります．
+解答を作成したらlivel2の問題のフォーマットに従ってプルリクしてください
+
 # 各問題と解法 
 (まだ解法を作成していないディレクトリもあります)
 * [001 - Yokan Party（★4）](https://atcoder.jp/contests/typical90/tasks/typical90_a):[解法](https://github.com/gostachan/typical_90/tree/main/level4/num1)
