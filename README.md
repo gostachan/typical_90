@@ -7,12 +7,12 @@
 解答を作成したらlivel2の問題のフォーマットに従ってプルリクしてください
 
 # レベルごとの問題はこちらから
-* [Level](https://github.com/gostachan/typical_90/tree/main/level2)
-* [Level](https://github.com/gostachan/typical_90/tree/main/level3)
-* [Level](https://github.com/gostachan/typical_90/tree/main/level4)
-* [Level](https://github.com/gostachan/typical_90/tree/main/level5)
-* [Level](https://github.com/gostachan/typical_90/tree/main/level6)
-* [Level](https://github.com/gostachan/typical_90/tree/main/level7)
+* [Level2](https://github.com/gostachan/typical_90/tree/main/level2)
+* [Level3](https://github.com/gostachan/typical_90/tree/main/level3)
+* [Level4](https://github.com/gostachan/typical_90/tree/main/level4)
+* [Level5](https://github.com/gostachan/typical_90/tree/main/level5)
+* [Level6](https://github.com/gostachan/typical_90/tree/main/level6)
+* [Level7](https://github.com/gostachan/typical_90/tree/main/level7)
 
 # 各問題と解法 
 (まだ解法を作成していないディレクトリもあります)
