@@ -6,6 +6,14 @@
 まだ解法を作成していない問題があります．
 解答を作成したらlivel2の問題のフォーマットに従ってプルリクしてください
 
+# レベルごとの問題はこちらから
+* [Level](https://github.com/gostachan/typical_90/tree/main/level2)
+* [Level](https://github.com/gostachan/typical_90/tree/main/level3)
+* [Level](https://github.com/gostachan/typical_90/tree/main/level4)
+* [Level](https://github.com/gostachan/typical_90/tree/main/level5)
+* [Level](https://github.com/gostachan/typical_90/tree/main/level6)
+* [Level](https://github.com/gostachan/typical_90/tree/main/level7)
+
 # 各問題と解法 
 (まだ解法を作成していないディレクトリもあります)
 * [001 - Yokan Party（★4）](https://atcoder.jp/contests/typical90/tasks/typical90_a):[解法](https://github.com/gostachan/typical_90/tree/main/level4/num1)
